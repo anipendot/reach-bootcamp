@@ -10,7 +10,7 @@ exports.Wrapper = class extends React.Component {
     const {content} = this.props;
     return (
       <div className="Deployer">
-        <h2>Deployer (Alice)</h2>
+        <h2>Deployer (Starsky)</h2>
         {content}
       </div>
     );
@@ -76,7 +76,7 @@ exports.WaitingForAttacher = class extends React.Component {
     const {ctcInfoStr} = this.props;
     return (
       <div>
-        Waiting for Attacher to join...
+        Waiting for Hutch to join...
         <br /> Please give them this contract info:
         <pre className='ContractInfo'>
           {ctcInfoStr}
