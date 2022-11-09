@@ -1,0 +1,10 @@
+Hi, there!
+
+To run this program:
+
+1. Open in Visual Studio Code
+2. Open the terminal and cd to the file location
+3. Enter "export REACH_CONNECTOR_MODE=ALGO"
+4. Enter "../reach react"
+5. Paste the URL (http://localhost:3000/) into your browser.
+6. Play!
